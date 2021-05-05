@@ -11,7 +11,7 @@ https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html
 ပြီးရင် kerning ကို 6 ထားပါ။
 
 ဥပမာ အနေနဲ့
-font5x7 array ထဲမှာ အောက်ပါ binary နဲ့ kerning 6 ကို ပြောင်ပေးပါ။
+font5x7 array ထဲမှာ အောက်ပါ binary နဲ့ kerning 6 ကို ပြောင်:ပေးပါ။
 "မ" အတွက်အောက်ပါအတိုင်း
 
 B10000001,
