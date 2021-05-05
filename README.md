@@ -2,6 +2,8 @@
 scroll myanmar text on LED matrix
 ဒီlink မှာ မြန်မာFont ကို binary အဖြစ်ပြောင်:
 
+ကိုယ်ကြိုက်သလို ပုံဖော်ပြီး binary ကိုကူး၍ font5x7 ထဲမှာပြောင်းပါ။
+
 https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html
 
 "မ" ဆိုရင် အောက်ပါအတိုင်းဖြစ်မယ်
